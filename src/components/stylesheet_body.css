@@ -1,0 +1,38 @@
+.poke_card {
+  display: flex;
+  border-radius: 25px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  width: 275px;
+  height: 120px;
+  background-color: lightblue;
+  justify-content: center;
+}
+
+.body {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#img {
+  margin-right: 15px;
+}
+
+.poke_card_info {
+  margin-left: 15px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+#name{
+    margin: 0px;
+}
+
+#id{
+    display: flex;
+    justify-content: flex-start;
+}
