@@ -1,0 +1,24 @@
+#about{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+#hr{
+    width: 500px;
+    height: 5px;
+    color: black;
+}
+
+.footer {
+    position: fixed;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    transform: translateY(50%);
+  }
+  
