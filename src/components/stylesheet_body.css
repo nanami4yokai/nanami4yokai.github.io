@@ -36,3 +36,12 @@
     display: flex;
     justify-content: flex-start;
 }
+
+#prev, #next{
+  background-color: lightpink;
+  border-color: black;
+  border-style: solid;
+  width: 80px;
+  height: 35px;
+  margin-top: 65px;
+}
