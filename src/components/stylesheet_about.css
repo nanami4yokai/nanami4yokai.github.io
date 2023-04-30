@@ -6,9 +6,12 @@
 
 #p{
     font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #img{
-    width: 400px;
+    width: 800px;
     height: 400px;
 }
+
